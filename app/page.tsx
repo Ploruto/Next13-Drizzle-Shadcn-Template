@@ -13,6 +13,7 @@ export default function IndexPage() {
           rel="noopener noreferrer"
           target="_blank"
           href="https://nextjs.org/docs"
+          className="w-full"
         >
           Nextjs Docs
         </a>
@@ -22,6 +23,7 @@ export default function IndexPage() {
           rel="noopener noreferrer"
           target="_blank"
           href="https://ui.shadcn.com"
+          className="w-full"
         >
           Shadcn-ui Docs
         </a>
@@ -31,6 +33,7 @@ export default function IndexPage() {
           rel="noopener noreferrer"
           target="_blank"
           href="https://orm.drizzle.team/docs/quick-start"
+          className="w-full"
         >
           Drizzle-ORM Docs
         </a>
