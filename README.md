@@ -1,11 +1,11 @@
 # next-template
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
+A Next.js 13 template for building apps with Radix UI, TailwindCSS and DrizzleORM.
 
 ## Usage
 
 ```bash
-npx create-next-app -e https://github.com/shadcn/next-template
+npx create-next-app -e https://github.com/Ploruto/Next13-Drizzle-Shadcn-Template
 ```
 
 ## Features
@@ -16,6 +16,7 @@ npx create-next-app -e https://github.com/shadcn/next-template
 - Icons from [Lucide](https://lucide.dev)
 - Dark mode with `next-themes`
 - Tailwind CSS class sorting, merging and linting.
+- Drizzle ORM
 
 ## License
 
